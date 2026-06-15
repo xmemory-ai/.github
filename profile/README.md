@@ -1,3 +1,3 @@
 # [`xmemory`](https://xmemory.ai)
 
-Datasets public repo TBD.
+Our datasets repo is [xmemory-ai/datasets](https://github.com/xmemory-ai/datasets).
